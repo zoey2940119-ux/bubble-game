@@ -1,0 +1,8 @@
+{
+  "name": "bubble-game",
+  "version": "1.0.0",
+  "description": "水球大亂鬥 連線版",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
